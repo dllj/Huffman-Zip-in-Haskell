@@ -1,0 +1,4 @@
+*.o
+*.hi
+hzip
+.DS_Store
